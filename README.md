@@ -145,7 +145,7 @@ If pending, alerts contract managers about upcoming deadlines.
 Multer (for file uploads)
 PDF.js (for document preview)
 ElasticSearch (for full-text search & indexing)
-JWT Authentication (for security) https://github.com/ManishPandey21/SaaS
+JWT Authentication (for security) 
 Expected Outcome
 A centralized, searchable, and efficient system for managing contract correspondence that improves: ✔ Document retrieval speed
 ✔ Collaboration on drafting responses
